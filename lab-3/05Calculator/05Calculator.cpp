@@ -7,9 +7,9 @@ int main() {
   char op;
 
   cout << "CALCULATOR" << endl << "----------" << endl;
-  
+
   cin >> num1 >> op >> num2;
-  
+
   cout << endl;
 
   int result;
